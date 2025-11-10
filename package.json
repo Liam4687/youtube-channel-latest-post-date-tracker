@@ -1,0 +1,29 @@
+{
+  "name": "youtube-channel-latest-post-date-tracker",
+  "version": "1.0.0",
+  "description": "Track latest post dates for multiple YouTube channels using public pages (no API key required).",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:sample": "node src/index.js --input data/sample_input.json --output data/sample_output.json",
+    "test": "node -e \"console.log('No automated tests defined yet.')\""
+  },
+  "keywords": [
+    "youtube",
+    "scraper",
+    "automation",
+    "latest",
+    "videos",
+    "shorts",
+    "channels"
+  ],
+  "author": "Bitbash",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
