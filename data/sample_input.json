@@ -1,0 +1,7 @@
+{
+  "channels": [
+    "@bitbash-demos",
+    "https://www.youtube.com/@GoogleDevelopers/videos"
+  ],
+  "type": "videos"
+}
