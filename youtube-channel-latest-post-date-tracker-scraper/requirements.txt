@@ -1,0 +1,4 @@
+requests
+
+youtube-channel-latest-post-date-tracker-scraper/.keep
+text# This folder is used to store data files.
