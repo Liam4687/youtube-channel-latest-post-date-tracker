@@ -1,0 +1,2 @@
+# Python dependencies (not used by the Node.js implementation).
+# This file is provided for environments that rely on a requirements.txt contract.
